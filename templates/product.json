@@ -117,14 +117,14 @@
       "settings": {
         "enable_sticky_info": true,
         "color_scheme": "",
-        "media_size": "large",
+        "media_size": "medium",
         "constrain_to_viewport": true,
-        "media_fit": "contain",
+        "media_fit": "cover",
         "gallery_layout": "stacked",
         "media_position": "left",
         "image_zoom": "lightbox",
         "mobile_thumbnails": "show",
-        "hide_variants": false,
+        "hide_variants": true,
         "enable_video_looping": true,
         "padding_top": 36,
         "padding_bottom": 12
